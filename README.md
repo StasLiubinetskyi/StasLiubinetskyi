@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 My name is Stanislav Liubinetskyi </h2>
+<h2 align="left">Hi 👋 My name is Stanislav </h2>
 
 ### I'm a frontend developer from Ukraine
 
