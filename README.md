@@ -48,12 +48,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/StasLiubinetskyi/StasLiubinetskyi/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=StasLiubinetskyi.StasLiubinetskyi&"  />
 </div>
