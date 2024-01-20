@@ -29,7 +29,7 @@
 
 📫 Reach me out!
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1cGcJtaIVg6WLpXBugqLYTZZpyHC03tlm/view)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1V6Pex7SKho13Z6w2r9e2---G7RDWNRMJ/view?usp=sharing)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stas-liubinetskyi/)
 
 ###
